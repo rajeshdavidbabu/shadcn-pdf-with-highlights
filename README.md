@@ -32,13 +32,21 @@ When building RAG (Retrieval-Augmented Generation) applications, trust is everyt
 
 ### Option 1: If you already have shadcn/ui installed
 
-Simply copy the component file into your project:
+**1. Install PDF dependencies:**
+
+```bash
+npm install react-pdf pdfjs-dist
+```
+
+> **Note:** Even with shadcn/ui, you need `react-pdf` and `pdfjs-dist` as they're specific to PDF rendering.
+
+**2. Copy the component file:**
 
 ```bash
 # Copy the main component
 cp src/ui/components/pdf-with-highlights.tsx your-project/components/ui/
 
-# That's it! The component is self-contained.
+# That's it! The component uses shadcn's existing utilities (cn, Button, etc.)
 ```
 
 ### Option 2: Fresh installation
@@ -48,6 +56,8 @@ cp src/ui/components/pdf-with-highlights.tsx your-project/components/ui/
 ```bash
 npm install react-pdf pdfjs-dist lucide-react @radix-ui/react-slot class-variance-authority clsx tailwind-merge
 ```
+
+> **Note:** `pdfjs-dist` is a required peer dependency of `react-pdf`. The PDF.js worker is automatically loaded from the unpkg CDN, so no additional configuration is needed.
 
 **2. Copy the component:**
 
