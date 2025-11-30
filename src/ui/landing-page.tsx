@@ -23,7 +23,7 @@ export function LandingPage({ children }: LandingPageProps) {
                     </div>
                     <div className="flex items-center gap-4">
                         <a
-                            href="https://github.com/your-repo" // Placeholder, user can update
+                            href="https://github.com/rajeshdavidbabu/shadcn-pdf-with-highlights"
                             target="_blank"
                             rel="noreferrer"
                             className="text-gray-500 hover:text-gray-900 transition-colors"
@@ -52,7 +52,7 @@ export function LandingPage({ children }: LandingPageProps) {
                             Try Live Demo
                         </Button>
                         <Button variant="outline" size="lg" className="h-12 px-8 text-base border-blue-600 text-blue-600 hover:bg-blue-50 font-medium" asChild>
-                            <a href="https://github.com/your-repo" target="_blank" rel="noreferrer">
+                            <a href="https://github.com/rajeshdavidbabu/shadcn-pdf-with-highlights" target="_blank" rel="noreferrer">
                                 View on GitHub
                             </a>
                         </Button>
