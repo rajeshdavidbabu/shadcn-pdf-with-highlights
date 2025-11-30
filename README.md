@@ -49,6 +49,8 @@ cp src/ui/components/pdf-with-highlights.tsx your-project/components/ui/
 # That's it! The component uses shadcn's existing utilities (cn, Button, etc.)
 ```
 
+> 📄 **[View the component file on GitHub](https://github.com/rajeshdavidbabu/shadcn-pdf-with-highlights/blob/master/src/ui/components/pdf-with-highlights.tsx)**
+
 ### Option 2: Fresh installation
 
 **1. Install dependencies:**
@@ -64,6 +66,8 @@ npm install react-pdf pdfjs-dist lucide-react @radix-ui/react-slot class-varianc
 ```bash
 cp src/ui/components/pdf-with-highlights.tsx your-project/components/ui/
 ```
+
+> 📄 **[View the component file on GitHub](https://github.com/rajeshdavidbabu/shadcn-pdf-with-highlights/blob/master/src/ui/components/pdf-with-highlights.tsx)**
 
 **3. Ensure Tailwind CSS is configured** in your project.
 
