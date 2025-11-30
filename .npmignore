@@ -1,0 +1,10 @@
+demo/
+src/
+tsconfig.json
+vite.config.ts
+components.json
+.gitignore
+*.log
+.DS_Store
+test-data/
+

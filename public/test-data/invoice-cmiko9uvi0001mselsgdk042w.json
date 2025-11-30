@@ -1,0 +1,640 @@
+{
+  "highlights": [
+    {
+      "id": "cmikoaj6q000zmseliq9xr1qe",
+      "page": 1,
+      "x": 0.7201628684997559,
+      "y": 0.04344897717237473,
+      "width": 0.1969285905361176,
+      "height": 0.02883788011968136,
+      "text": "INVOICE",
+      "label": "BASIC_INFO invoiceType",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q000umselsyl2ghc3",
+      "page": 1,
+      "x": 0.8327455520629883,
+      "y": 0.1178107634186745,
+      "width": 0.08549360185861588,
+      "height": 0.01192119717597961,
+      "text": "00000135",
+      "label": "BASIC_INFO invoiceNumber",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q000vmselyi3kzacg",
+      "page": 1,
+      "x": 0.7904455065727234,
+      "y": 0.1374374032020569,
+      "width": 0.1288563311100006,
+      "height": 0.01188585534691811,
+      "text": "12 March 2024",
+      "label": "BASIC_INFO invoiceDate",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0010mselfvepbdw8",
+      "page": 1,
+      "x": 0.09074164181947708,
+      "y": 0.1617387980222702,
+      "width": 0.2366392016410828,
+      "height": 0.01654567755758762,
+      "text": "LEGAL & FINANCE",
+      "label": "SUPPLIER_INFO name",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0012mselxxhk1ccv",
+      "page": 1,
+      "x": 0.1174283847212791,
+      "y": 0.228587418794632,
+      "width": 0.2575271427631378,
+      "height": 0.01500430982559919,
+      "text": "Abstractors and Design Co.",
+      "label": "CUSTOMER_INFO name",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0013mselpoj7q2b9",
+      "page": 1,
+      "x": 0.1179390028119087,
+      "y": 0.2666202485561371,
+      "width": 0.1981752663850784,
+      "height": 0.04806111287325621,
+      "text": "Suite 8\n611 Maine St\nSan Francisco CA 94105",
+      "label": "CUSTOMER_INFO address",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0017mselsfu58y9c",
+      "page": 1,
+      "x": 0.8166069984436035,
+      "y": 0.4207043945789337,
+      "width": 0.079297736287117,
+      "height": 0.01338966935873032,
+      "text": "1350.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0018msel4o7sam32",
+      "page": 1,
+      "x": 0.8166069984436035,
+      "y": 0.4207043945789337,
+      "width": 0.079297736287117,
+      "height": 0.01338966935873032,
+      "text": "1350.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0014mselrqknrnxw",
+      "page": 1,
+      "x": 0.2407510131597519,
+      "y": 0.4212481081485748,
+      "width": 0.2488121092319489,
+      "height": 0.01401309110224247,
+      "text": "ACP101",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0015mseli0uwgvj7",
+      "page": 1,
+      "x": 0.2407510131597519,
+      "y": 0.4212481081485748,
+      "width": 0.2488121092319489,
+      "height": 0.01401309110224247,
+      "text": "Accounting Package\nAnnual Subscription to Premier Version with Tax, Inventory and Payroll Plugins",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0016msel6kgjp56q",
+      "page": 1,
+      "x": 0.1678388714790344,
+      "y": 0.4215930998325348,
+      "width": 0.00923612155020237,
+      "height": 0.01083396188914776,
+      "text": "3",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001cmsels5f7kjcr",
+      "page": 1,
+      "x": 0.8313022255897522,
+      "y": 0.5143433213233948,
+      "width": 0.0652657076716423,
+      "height": 0.01303594280034304,
+      "text": "495.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001dmsel7v7xjsf9",
+      "page": 1,
+      "x": 0.8313022255897522,
+      "y": 0.5143433213233948,
+      "width": 0.0652657076716423,
+      "height": 0.01303594280034304,
+      "text": "495.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0019msel1uhuts17",
+      "page": 1,
+      "x": 0.240754708647728,
+      "y": 0.5149478316307068,
+      "width": 0.2147538363933563,
+      "height": 0.01382140442728996,
+      "text": "ACP101T",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001amselz56r6fii",
+      "page": 1,
+      "x": 0.240754708647728,
+      "y": 0.5149478316307068,
+      "width": 0.2147538363933563,
+      "height": 0.01382140442728996,
+      "text": "Online Training\nHours of Training in Premier Version - Interactive Demos with Q&A Sessions",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001bmselhwuveikv",
+      "page": 1,
+      "x": 0.1597807854413986,
+      "y": 0.5153293013572693,
+      "width": 0.02507046237587929,
+      "height": 0.01079124957323074,
+      "text": "4.5",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001hmselqscbyy9t",
+      "page": 1,
+      "x": 0.8163677453994751,
+      "y": 0.6077143549919128,
+      "width": 0.0794600173830986,
+      "height": 0.01339243166148663,
+      "text": "1100.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001imselkcxyhzrq",
+      "page": 1,
+      "x": 0.8163677453994751,
+      "y": 0.6077143549919128,
+      "width": 0.0794600173830986,
+      "height": 0.01339243166148663,
+      "text": "1100.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001emselfhu9z9nb",
+      "page": 1,
+      "x": 0.2409178614616394,
+      "y": 0.6081756353378296,
+      "width": 0.2373389452695847,
+      "height": 0.01376071851700544,
+      "text": "ACP101S",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001fmselq9j97zcj",
+      "page": 1,
+      "x": 0.2409178614616394,
+      "y": 0.6081756353378296,
+      "width": 0.2373389452695847,
+      "height": 0.01376071851700544,
+      "text": "Standard Support\nInitial Hours allocated for access to email and phone support for Premier Version",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001gmselrojbezl2",
+      "page": 1,
+      "x": 0.1632978469133377,
+      "y": 0.6084373593330383,
+      "width": 0.01891821064054966,
+      "height": 0.01096964813768864,
+      "text": "10",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001mmsel6g1u1kl8",
+      "page": 1,
+      "x": 0.8314070105552673,
+      "y": 0.700793981552124,
+      "width": 0.06408877670764923,
+      "height": 0.01343944296240807,
+      "text": "660.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001nmselhhjta81u",
+      "page": 1,
+      "x": 0.8314070105552673,
+      "y": 0.700793981552124,
+      "width": 0.06408877670764923,
+      "height": 0.01343944296240807,
+      "text": "660.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001kmselmdb6wwgx",
+      "page": 1,
+      "x": 0.2408922463655472,
+      "y": 0.7012674808502197,
+      "width": 0.2740350961685181,
+      "height": 0.01154449116438627,
+      "text": "Screen Customization\nHours spent customizing screens in Premier Version for client requirements",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001jmseldc6k1kzu",
+      "page": 1,
+      "x": 0.2408922463655472,
+      "y": 0.7012674808502197,
+      "width": 0.2740350961685181,
+      "height": 0.01154449116438627,
+      "text": "ACP101C",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001lmsel9ohtrru7",
+      "page": 1,
+      "x": 0.1677547544240952,
+      "y": 0.7018060088157654,
+      "width": 0.009752827696502209,
+      "height": 0.01060723047703505,
+      "text": "6",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001smselkzh44w8a",
+      "page": 1,
+      "x": 0.831506073474884,
+      "y": 0.7947164177894592,
+      "width": 0.06510069221258163,
+      "height": 0.01285441871732473,
+      "text": "495.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001rmselvqmt2nh5",
+      "page": 1,
+      "x": 0.831506073474884,
+      "y": 0.7947164177894592,
+      "width": 0.06510069221258163,
+      "height": 0.01285441871732473,
+      "text": "495.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001pmselrvbnpuom",
+      "page": 1,
+      "x": 0.2409087866544724,
+      "y": 0.7949526906013489,
+      "width": 0.2718907296657562,
+      "height": 0.01409408543258905,
+      "text": "Report Customization\nHours spent customizing reports in Premier Version for client requirements",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001omselxelnq0dc",
+      "page": 1,
+      "x": 0.2409087866544724,
+      "y": 0.7949526906013489,
+      "width": 0.2718907296657562,
+      "height": 0.01409408543258905,
+      "text": "ACP101R",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q001qmsel0mw4pgo0",
+      "page": 1,
+      "x": 0.1599036157131195,
+      "y": 0.7954546213150024,
+      "width": 0.02482115291059017,
+      "height": 0.01065573748201132,
+      "text": "4.5",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q0011mselkfknlo0t",
+      "page": 1,
+      "x": 0.3596926033496857,
+      "y": 0.9235113859176636,
+      "width": 0.5221926271915436,
+      "height": 0.03507089428603649,
+      "text": "154-164 The Embarcadero, San Francisco, CA 94105\nTel: (1) 555-123-1234 Email: admin@metalegalfinance.com",
+      "label": "SUPPLIER_INFO address",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001wmsellcz3nrn0",
+      "page": 2,
+      "x": 0.8316200375556946,
+      "y": 0.2709311842918396,
+      "width": 0.06365694850683212,
+      "height": 0.01307970192283392,
+      "text": "220.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001xmsel7a6q03it",
+      "page": 2,
+      "x": 0.8316200375556946,
+      "y": 0.2709311842918396,
+      "width": 0.06365694850683212,
+      "height": 0.01307970192283392,
+      "text": "220.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001umsel068brip0",
+      "page": 2,
+      "x": 0.2407739460468292,
+      "y": 0.2714093625545502,
+      "width": 0.2124892324209213,
+      "height": 0.01410183776170015,
+      "text": "System Imports\nHours spent importing customer records into Premier Version",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001tmsel6gotxngt",
+      "page": 2,
+      "x": 0.2407739460468292,
+      "y": 0.2714093625545502,
+      "width": 0.2124892324209213,
+      "height": 0.01410183776170015,
+      "text": "ACP101I",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001vmsel17x6lak9",
+      "page": 2,
+      "x": 0.1676145642995834,
+      "y": 0.2718919813632965,
+      "width": 0.009652537293732166,
+      "height": 0.01062457449734211,
+      "text": "2",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0021msel5z68scyf",
+      "page": 2,
+      "x": 0.8314562439918518,
+      "y": 0.364177405834198,
+      "width": 0.06472226232290268,
+      "height": 0.01316152606159449,
+      "text": "900.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0022mselqjs4zpu2",
+      "page": 2,
+      "x": 0.8314562439918518,
+      "y": 0.364177405834198,
+      "width": 0.06472226232290268,
+      "height": 0.01316152606159449,
+      "text": "900.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001ymseljhxzyxy7",
+      "page": 2,
+      "x": 0.2407819777727127,
+      "y": 0.3648155629634857,
+      "width": 0.2492187917232513,
+      "height": 0.01398282218724489,
+      "text": "ACP100",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r001zmsel5w2l5ay0",
+      "page": 2,
+      "x": 0.2407819777727127,
+      "y": 0.3648155629634857,
+      "width": 0.2492187917232513,
+      "height": 0.01398282218724489,
+      "text": "Accounting Package\nAnnual Subscription to Standard Version of Accounts System",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0020msel8fnbas3h",
+      "page": 2,
+      "x": 0.1678820252418518,
+      "y": 0.3652684092521667,
+      "width": 0.00910935364663601,
+      "height": 0.01066634524613619,
+      "text": "3",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0026mselw23p72b0",
+      "page": 2,
+      "x": 0.8314998745918274,
+      "y": 0.4576697051525116,
+      "width": 0.06478122621774673,
+      "height": 0.01324645522981882,
+      "text": "495.00",
+      "label": "LINE_ITEMS unitPrice",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0027mselotedlvqz",
+      "page": 2,
+      "x": 0.8314998745918274,
+      "y": 0.4576697051525116,
+      "width": 0.06478122621774673,
+      "height": 0.01324645522981882,
+      "text": "495.00",
+      "label": "LINE_ITEMS lineTotal",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0024mselz2mr77kj",
+      "page": 2,
+      "x": 0.2408737242221832,
+      "y": 0.4581916928291321,
+      "width": 0.2145330309867859,
+      "height": 0.01386965438723564,
+      "text": "Online Training\nHours of Training in Standard Version - Interactive Demos with Q&A Sessions",
+      "label": "LINE_ITEMS description",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0023mselhmo1xb7c",
+      "page": 2,
+      "x": 0.2408737242221832,
+      "y": 0.4581916928291321,
+      "width": 0.2145330309867859,
+      "height": 0.01386965438723564,
+      "text": "ACP100T",
+      "label": "LINE_ITEMS productCode",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0025mselx3di9kbv",
+      "page": 2,
+      "x": 0.1598238348960876,
+      "y": 0.4587145149707794,
+      "width": 0.0250064916908741,
+      "height": 0.01064015179872513,
+      "text": "4.5",
+      "label": "LINE_ITEMS quantity",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q000xmselm5icrkl4",
+      "page": 2,
+      "x": 0.8164701461791992,
+      "y": 0.5625852346420288,
+      "width": 0.07882865518331528,
+      "height": 0.01328436564654112,
+      "text": "5715.00",
+      "label": "BASIC_INFO totalAmount",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0029mseljgz8hsrg",
+      "page": 2,
+      "x": 0.8164701461791992,
+      "y": 0.5625852346420288,
+      "width": 0.07882865518331528,
+      "height": 0.01328436564654112,
+      "text": "5715.00",
+      "label": "TOTALS totalAmount",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q000ymselqwcyr7g1",
+      "page": 2,
+      "x": 0.8164701461791992,
+      "y": 0.5625852346420288,
+      "width": 0.07882865518331528,
+      "height": 0.01328436564654112,
+      "text": "USD",
+      "label": "BASIC_INFO currency",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6r0028msel2m2w5zu6",
+      "page": 2,
+      "x": 0.4313149452209473,
+      "y": 0.6053248643875122,
+      "width": 0.1607946902513504,
+      "height": 0.01161773689091206,
+      "text": "14",
+      "label": "PAYMENT_TERMS paymentDays",
+      "normalized": true
+    },
+    {
+      "id": "cmikoaj6q000wmsell7n3lxao",
+      "page": 2,
+      "x": 0.3703815042972565,
+      "y": 0.6279672384262085,
+      "width": 0.2826767265796661,
+      "height": 0.01160255447030067,
+      "text": "26 March 2024",
+      "label": "BASIC_INFO dueDate",
+      "normalized": true
+    }
+  ],
+  "fields": [
+    {
+      "id": "field-invoice-number",
+      "label": "Invoice",
+      "value": "00000135",
+      "highlightId": "cmikoaj6q000umselsyl2ghc3",
+      "group": "Basic Information"
+    },
+    {
+      "id": "field-invoice-date",
+      "label": "Invoice Date",
+      "value": "3/12/2024",
+      "highlightId": "cmikoaj6q000vmselyi3kzacg",
+      "group": "Basic Information"
+    },
+    {
+      "id": "field-due-date",
+      "label": "Due Date",
+      "value": "3/26/2024",
+      "highlightId": "cmikoaj6q000wmsell7n3lxao",
+      "group": "Basic Information"
+    },
+    {
+      "id": "field-total-amount",
+      "label": "Total Amount",
+      "value": "5715",
+      "highlightId": "cmikoaj6q000xmselm5icrkl4",
+      "group": "Basic Information"
+    },
+    {
+      "id": "field-supplier-name",
+      "label": "Supplier Name",
+      "value": "LEGAL & FINANCE",
+      "highlightId": "cmikoaj6q0010mselfvepbdw8",
+      "group": "Supplier Information"
+    },
+    {
+      "id": "field-supplier-address",
+      "label": "Address",
+      "value": "154-164 The Embarcadero, San Francisco, CA 94105\nTel: (1) 555-123-1234 Email: admin@metalegalfinance.com",
+      "highlightId": "cmikoaj6q0011mselkfknlo0t",
+      "group": "Supplier Information"
+    },
+    {
+      "id": "field-customer-name",
+      "label": "Customer Name",
+      "value": "Abstractors and Design Co.",
+      "highlightId": "cmikoaj6q0012mselxxhk1ccv",
+      "group": "Customer Information"
+    },
+    {
+      "id": "field-customer-address",
+      "label": "Address",
+      "value": "Suite 8\n611 Maine St\nSan Francisco CA 94105",
+      "highlightId": "cmikoaj6q0013mselpoj7q2b9",
+      "group": "Customer Information"
+    }
+  ],
+  "metadata": {
+    "type": "invoice",
+    "id": "cmiko9uvi0001mselsgdk042w",
+    "extractedAt": "2025-11-29T19:16:57.313Z",
+    "status": "COMPLETED"
+  }
+}
