@@ -41,7 +41,7 @@ export function LandingPage({ children }: LandingPageProps) {
                         The Missing PDF Viewer for RAG Applications
                     </h1>
                     <p className="mx-auto max-w-3xl text-xl tracking-tight md:text-xl leading-relaxed font-medium">
-                        Show users exactly where your AI found the answer on your PDF documents.
+                        Show users exactly where your AI found the answer on your PDF documents using your OCR layout coordinates.
                     </p>
                     <div className="flex items-center justify-center gap-4 pt-6">
                         <Button
