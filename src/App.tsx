@@ -11,7 +11,7 @@ import testData from "../public/test-data/invoice-cmiko9uvi0001mselsgdk042w.json
 function PDFDemo() {
   const highlights: PDFHighlight[] = testData.highlights
   const fields: PDFHighlightField[] = testData.fields
-  const pdfUrl = "/test-data/cmiko9uvi0001mselsgdk042w.pdf"
+  const pdfUrl = `${import.meta.env.BASE_URL}test-data/cmiko9uvi0001mselsgdk042w.pdf`
 
   const [activeHighlightId, setActiveHighlightId] = useState<string | null>(null)
 
