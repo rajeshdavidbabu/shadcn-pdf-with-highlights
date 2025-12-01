@@ -205,9 +205,6 @@ const highlight: PDFHighlight = {
 
 This makes it easy to integrate with your existing document processing pipeline!
 
-## Live Demo
-
-Check out the live demo at: [https://shadcn-pdf-with-highlights.vercel.app](https://github.com/rajeshdavidbabu/shadcn-pdf-with-highlights)
 
 ## Development
 
