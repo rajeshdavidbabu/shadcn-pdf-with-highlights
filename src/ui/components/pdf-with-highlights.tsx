@@ -546,13 +546,34 @@ export function PDFViewer({ pdfUrl, highlights, activeHighlightId }: PDFViewerPr
         }
     }, [numPages])
 
-    // Scroll to highlight
+    // Scroll to highlight (using billbrain's approach)
     React.useEffect(() => {
         if (activeHighlightId) {
-            setTimeout(() => {
-                const element = highlightRefs.current.get(activeHighlightId) ?? null
-                scrollToElement(element, containerRef.current)
-            }, 100)
+            const tryScroll = (attempt = 0) => {
+                const element = highlightRefs.current.get(activeHighlightId)
+                if (element) {
+                    const container = containerRef.current
+                    const rect = element.getBoundingClientRect()
+                    const view = (container || document.documentElement).getBoundingClientRect()
+
+                    // Only scroll if the annotation is not fully visible
+                    if (rect.top < view.top || rect.bottom > view.bottom) {
+                        element.scrollIntoView({
+                            behavior: "smooth",
+                            block: "center",
+                            inline: "nearest",
+                            // @ts-ignore
+                            container: "nearest"
+                        })
+                    }
+                } else if (attempt < 10) {
+                    // Keep trying until element is rendered (up to 10 attempts)
+                    requestAnimationFrame(() => tryScroll(attempt + 1))
+                }
+            }
+
+            // Wait for highlight to render, then try scrolling
+            setTimeout(() => requestAnimationFrame(() => tryScroll()), 50)
         }
     }, [activeHighlightId])
 
